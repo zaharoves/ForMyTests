@@ -1,0 +1,15 @@
+C:\Repositories\ForMyTests\Console\ForMyTestsConsole\ForMyTestsConsole\bin\Debug\net6.0\ForMyTestsConsole.exe
+C:\Repositories\ForMyTests\Console\ForMyTestsConsole\ForMyTestsConsole\bin\Debug\net6.0\ForMyTestsConsole.deps.json
+C:\Repositories\ForMyTests\Console\ForMyTestsConsole\ForMyTestsConsole\bin\Debug\net6.0\ForMyTestsConsole.runtimeconfig.json
+C:\Repositories\ForMyTests\Console\ForMyTestsConsole\ForMyTestsConsole\bin\Debug\net6.0\ForMyTestsConsole.dll
+C:\Repositories\ForMyTests\Console\ForMyTestsConsole\ForMyTestsConsole\bin\Debug\net6.0\ForMyTestsConsole.pdb
+C:\Repositories\ForMyTests\Console\ForMyTestsConsole\ForMyTestsConsole\obj\Debug\net6.0\ForMyTestsConsole.csproj.AssemblyReference.cache
+C:\Repositories\ForMyTests\Console\ForMyTestsConsole\ForMyTestsConsole\obj\Debug\net6.0\ForMyTestsConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\ForMyTests\Console\ForMyTestsConsole\ForMyTestsConsole\obj\Debug\net6.0\ForMyTestsConsole.AssemblyInfoInputs.cache
+C:\Repositories\ForMyTests\Console\ForMyTestsConsole\ForMyTestsConsole\obj\Debug\net6.0\ForMyTestsConsole.AssemblyInfo.cs
+C:\Repositories\ForMyTests\Console\ForMyTestsConsole\ForMyTestsConsole\obj\Debug\net6.0\ForMyTestsConsole.csproj.CoreCompileInputs.cache
+C:\Repositories\ForMyTests\Console\ForMyTestsConsole\ForMyTestsConsole\obj\Debug\net6.0\ForMyTestsConsole.dll
+C:\Repositories\ForMyTests\Console\ForMyTestsConsole\ForMyTestsConsole\obj\Debug\net6.0\refint\ForMyTestsConsole.dll
+C:\Repositories\ForMyTests\Console\ForMyTestsConsole\ForMyTestsConsole\obj\Debug\net6.0\ForMyTestsConsole.pdb
+C:\Repositories\ForMyTests\Console\ForMyTestsConsole\ForMyTestsConsole\obj\Debug\net6.0\ForMyTestsConsole.genruntimeconfig.cache
+C:\Repositories\ForMyTests\Console\ForMyTestsConsole\ForMyTestsConsole\obj\Debug\net6.0\ref\ForMyTestsConsole.dll
